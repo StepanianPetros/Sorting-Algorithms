@@ -6,7 +6,7 @@ This repository contains implementations of various sorting algorithms written i
 
 - Bubble Sort ✅
 - Insertion Sort
-- Selection Sort
+- Selection Sort ✅
 - Merge Sort ✅
 - Quick Sort ✅
 - Heap Sort ✅
