@@ -1,6 +1,3 @@
-# Sorting-Algorithms
-A collection of sorting algorithms implemented in C.
-
 # Sorting Algorithms in C
 
 This repository contains implementations of various sorting algorithms written in C. It's intended for educational purposes and practice.
