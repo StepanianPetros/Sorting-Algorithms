@@ -4,12 +4,12 @@ This repository contains implementations of various sorting algorithms written i
 
 ## Implemented Algorithms
 
-- Bubble Sort
+- Bubble Sort ✅
 - Insertion Sort
 - Selection Sort
-- Merge Sort
-- Quick Sort
-- Heap Sort
+- Merge Sort ✅
+- Quick Sort ✅
+- Heap Sort ✅
 - Shell Sort
 - Radix Sort
 - Counting Sort
