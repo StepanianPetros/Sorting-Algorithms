@@ -12,7 +12,7 @@ This repository contains implementations of various sorting algorithms written i
 - Heap Sort ✅
 - Shell Sort ✅
 - Radix Sort
-- Counting Sort
+- Counting Sort ✅
 
 ## Features
 
