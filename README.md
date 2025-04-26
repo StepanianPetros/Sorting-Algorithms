@@ -10,7 +10,7 @@ This repository contains implementations of various sorting algorithms written i
 - Merge Sort ✅
 - Quick Sort ✅
 - Heap Sort ✅
-- Shell Sort
+- Shell Sort ✅
 - Radix Sort
 - Counting Sort
 
