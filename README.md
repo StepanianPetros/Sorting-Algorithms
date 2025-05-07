@@ -11,7 +11,7 @@ This repository contains implementations of various sorting algorithms written i
 - Quick Sort ✅
 - Heap Sort ✅
 - Shell Sort ✅
-- Radix Sort
+- Radix Sort ✅
 - Counting Sort ✅
 
 ## Features
